@@ -1,6 +1,38 @@
+/* Malia Bird 4/14/22 */
 body{
     background-color: rgb(175, 207, 234);
 }
 
+a:visited{
+    color:rgb(75, 109, 221);
+}
+ a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;}
 
-  
+H1 style{
+font-family:Arial, Helvetica, sans-serif;
+color:#555;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#555;
+    text-align: center;
+    
+}
+
+li{
+    font-size: 20px;
+    font-style: italic;
+    
+}
+
+
+
+
+
+
+    
